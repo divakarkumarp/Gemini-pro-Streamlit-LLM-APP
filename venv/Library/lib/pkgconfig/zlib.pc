@@ -1,0 +1,13 @@
+prefix=E:/EndtoEnd_ML_LLM _LIM/LLM-LIM-Application-Gemini-pro-/Gemini-pro-Streamlit-LLM-APP/venv/Library
+exec_prefix=E:/EndtoEnd_ML_LLM _LIM/LLM-LIM-Application-Gemini-pro-/Gemini-pro-Streamlit-LLM-APP/venv/Library
+libdir=E:/EndtoEnd_ML_LLM _LIM/LLM-LIM-Application-Gemini-pro-/Gemini-pro-Streamlit-LLM-APP/venv/Library/lib
+sharedlibdir=E:/EndtoEnd_ML_LLM _LIM/LLM-LIM-Application-Gemini-pro-/Gemini-pro-Streamlit-LLM-APP/venv/Library/lib
+includedir=E:/EndtoEnd_ML_LLM _LIM/LLM-LIM-Application-Gemini-pro-/Gemini-pro-Streamlit-LLM-APP/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
