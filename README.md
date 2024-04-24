@@ -1,5 +1,16 @@
 # Gemini Pro Streamlit LLM App
-![alt text](image.png)
+Run the following command in your terminal to start the chat UI
+```
+streamit run app.py
+```
+![image](https://github.com/divakarkumarp/Gemini-pro-Streamlit-LLM-APP/assets/32620288/c28e3241-d026-46e4-bfd8-3a8c50c2e07a)
+Run the following command in your terminal to start the chat UI
+```
+streamit run imgs.py
+```
+![image](https://github.com/divakarkumarp/Gemini-pro-Streamlit-LLM-APP/assets/32620288/39cf2d9e-1870-4d4d-b233-dac41c1f2421)
+
+![image](https://github.com/divakarkumarp/Gemini-pro-Streamlit-LLM-APP/assets/32620288/a87b6cdf-7daf-4a98-b254-8094accf33d1)
 
 ## Overview:
 Software And Tools Requirements
